@@ -1,0 +1,6 @@
+C:\Users\dark\source\repos\ConsoleApp22\BubleSort\bin\Debug\BubleSort.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSort\bin\Debug\BubleSort.pdb
+C:\Users\dark\source\repos\ConsoleApp22\BubleSort\obj\Debug\BubleSort.csprojAssemblyReference.cache
+C:\Users\dark\source\repos\ConsoleApp22\BubleSort\obj\Debug\BubleSort.csproj.CoreCompileInputs.cache
+C:\Users\dark\source\repos\ConsoleApp22\BubleSort\obj\Debug\BubleSort.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSort\obj\Debug\BubleSort.pdb

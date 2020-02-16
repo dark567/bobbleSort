@@ -1,0 +1,16 @@
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\BubleSortTests.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\BubleSortTests.pdb
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\BubleSort.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\BubleSort.pdb
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\obj\Debug\BubleSortTests.csprojAssemblyReference.cache
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\obj\Debug\BubleSortTests.csproj.CoreCompileInputs.cache
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\obj\Debug\BubleSortTests.csproj.CopyComplete
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\obj\Debug\BubleSortTests.dll
+C:\Users\dark\source\repos\ConsoleApp22\BubleSortTests\obj\Debug\BubleSortTests.pdb

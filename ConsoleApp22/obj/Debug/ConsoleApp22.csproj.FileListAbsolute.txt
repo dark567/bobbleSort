@@ -1,0 +1,10 @@
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csprojAssemblyReference.cache
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\BubleSort.dll
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\BubleSort.pdb
+C:\Users\dark\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CopyComplete
